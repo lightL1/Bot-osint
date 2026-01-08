@@ -1,0 +1,16 @@
+---
+
+## ⚙️ Requisitos
+
+- Python **3.8+**
+- Conta no Telegram
+- Token de bot (via @BotFather)
+
+---
+
+## 📦 Instalação
+
+```bash
+git clone https://github.com/seuusuario/osint-phone-investigator.git
+cd osint-phone-investigator
+pip install -r requirements.txt
